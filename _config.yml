@@ -24,9 +24,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: park sewoo
   description: 즐겁게 살아가고 싶은 박세우 입니다. #A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  gravatar: 6757e5fa53318c880a3f03370e4ee1cc #3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/parksewoo
@@ -42,6 +42,7 @@ nav:
   Blog:
     - '/blog/'
     - { Categories: '/blog/categories/' }
+    - { History: '/blog/history/' }
     - { Tags: '/blog/tags/' }
   About:
     - '/about/'
