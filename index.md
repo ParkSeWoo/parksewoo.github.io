@@ -20,10 +20,10 @@ hero:
 
 features:
   - title: Feature A
-    details: 2025년 계획 ~!
+    details: 2025년 계획 ~!!
   - title: Feature B
-    details: 2025년 이직을 하게됨 준비하기
+    details: 2025년 이직을 하게됨 준비하기!!
   - title: Feature C
-    details: 2025년 건강
+    details: 2025년 건강!!
 ---
 
