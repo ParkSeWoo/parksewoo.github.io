@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 개발하면서 기록하기
-      link: /sub-menu/devlop-history
+      link: /sub-menu/develop-history
     - theme: alt
       text: Markdown 샘플페이지
       link: /markdown-examples
