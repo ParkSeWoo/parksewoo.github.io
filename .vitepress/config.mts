@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: '개발하면서 기록하기', link: '/sub-menu/devlop-history' },
           { text: 'Markdown 샘플페이지', link: '/markdown-examples' },
-          { text: 'Runtime API 샘플페이지', link: '/api-examples' }
+          { text: 'Runtime API 샘플페이지', link: '/api-examples' },
         ]
       }
     ],
