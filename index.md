@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: 개발하면서 기록하기
+      link: /sub-menu/devlop-history
 
 features:
   - title: Feature A
