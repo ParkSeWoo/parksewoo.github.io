@@ -7,10 +7,10 @@ hero:
   text: "Blog VitePress Site"
   tagline: My great project tagline
   actions:
-    - theme: alt
+    - theme: brand
       text: 개발하면서 기록하기
       link: /sub-menu/devlop-history
-    - theme: brand
+    - theme: alt
       text: Markdown 샘플페이지
       link: /markdown-examples
     - theme: alt
