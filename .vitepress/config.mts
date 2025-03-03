@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Info',
         items: [
           { text: '개발하면서 기록하기', link: '/develop-history' },
           { text: 'Markdown 샘플페이지', link: '/markdown-examples' },
